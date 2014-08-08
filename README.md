@@ -9,7 +9,7 @@ The params needed are the following ones:
 	Determines if you want to output some debug OR you want to know how many possible routes give a correct answer
 
 'Objective':
-	Sets the value that as to be accumulated through the route
+	Sets the value that has to be accumulated through the route
 	
 'Last Position':
 	A vector with the position where the route has to finish
